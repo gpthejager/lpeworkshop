@@ -20,7 +20,7 @@ The workshop is based on the attack tree below, which covers all known (at the t
 * [Windows exercises setup script](https://github.com/sagishahar/lpeworkshop/blob/master/lpe_windows_setup.bat)
 
 ### Setup Instructions for Windows
-1. Start a Windows VM that you legitimately own (else get legitimate copy from https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+1. Start a Windows VM that you legitimately own ( else get legitimate copy from https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/ )
 2. Login to the Windows VM using a user account that has administrator privileges
 3. Ensure the Windows VM does not have a user account named 'user'. If it exists, delete it
 4. Copy the setup script (lpe_windows_setup.bat) to a writeable location on a Windows VM (the Desktop directory is fine)
